@@ -1,0 +1,28 @@
+.Dangerous {
+
+    font-size: 25px;
+    width: 100%;
+
+    box-shadow: 5px 5px 15px yellow;
+}
+
+.NOTE {
+    font-size: 15px;
+    color: black;
+}
+
+.C_R_F {
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    background-color: cyan;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
